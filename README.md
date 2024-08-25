@@ -1,7 +1,7 @@
 
 
-<p align="left">
-  <img align="left" width="150px" style="padding-right: 20px;" src="https://raw.githubusercontent.com/luaywadie/AmAlgorithms/master/assets/Animated_Logo2.gif" />
+<p>
+  <img align="right" width="150px" style="padding-right: 20px;" src="https://raw.githubusercontent.com/luaywadie/AmAlgorithms/master/assets/Animated_Logo2.gif" />
 </p>
 
 # AmAlgorithms - Algorithm Visualizer & Debugger
