@@ -1,10 +1,11 @@
 
 
-<p>
-  <img align="right" width="150px" style="padding-right: 20px;position:relative" src="https://raw.githubusercontent.com/luaywadie/AmAlgorithms/master/assets/Animated_Logo2.gif" />
-</p>
+<div>
+  <img align="right" width="150px" style="padding-right: 20px;position: relative" src="https://raw.githubusercontent.com/luaywadie/AmAlgorithms/master/assets/Animated_Logo2.gif" />
+  <h1 style="position:relative;">AmAlgorithms - Algorithm Visualizer & Debugger</h1>
+</div>
 
-# AmAlgorithms - Algorithm Visualizer & Debugger
+
 
 
 **Algorithm Visualizer & Debugger** is a powerful web-based tool designed to help users better understand and visualize algorithms in action. Whether you’re a student learning algorithms for the first time or a seasoned developer brushing up on your skills, this tool provides an interactive and engaging way to explore a wide variety of algorithms from Data Structures, Sorting, Trees, Graphs, and Machine Learning.
